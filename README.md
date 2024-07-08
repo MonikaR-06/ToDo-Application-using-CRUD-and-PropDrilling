@@ -39,6 +39,16 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Deployment
+
+To deploy this project run
+
+https://gotodoo.netlify.app/
+
+## Screenshots
+
+![todoapp](https://github.com/monikaa06/ToDo-Application-using-CRUD-and-PropDrilling/assets/148076194/3025ca9e-a374-4a02-965b-5b20e8924aab)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
